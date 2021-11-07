@@ -14,7 +14,20 @@ Ambitious, curious, flexible and always ready to learn new things. Mountain love
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SCSS logo" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel logo" width="50" heigth="50" /> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="MongoDB logo" width="50" heigth="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SCSS logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" heigth="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue logo" width="50" heigth="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/shopify-2.svg" alt="Shopify logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira logo" width="50" heigth="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind logo" width="50" heigth="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50" heigth="50" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50" heigth="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="MongoDB logo" width="50" heigth="50" />
 
 ---
 
